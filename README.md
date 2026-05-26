@@ -1,31 +1,29 @@
 # Proyecto Urban Grocers
 
+La página a probar contiene elementos para compra de comida, tanto de manera individual como en kits con una cuenta asociada.
 
-
-Comprobación de lista de pruebas para la página de Urban Grocers al crear un kit de un usuario en especifico.
-
-Se prueba la introducción de nombres posibles y no posibles para el nuevo kit asociado.
+En estas pruebas se hace la comprobación de lista de requerimientos al crear un kit de un usuario en especifico, siendo especificos en el campo "nombre" para el nuevo kit asociado. Se realizan tanto pruebas funcionales como no funcionales.
 
 
 
-\##Fuente de documentación
+## Fuente de documentación
 
 \[https://cnt-598ae919-284e-45de-a3b2-cf7d911caad7.containerhub.tripleten-services.com/docs/]
 
 
 
-\##Tecnología
+## Tecnología
 
 Se utilizó el siguiente ambiente:
 
-* Pycharm
-* apiDocs
-* GitHub
-* Git Bash
+- Pycharm
+- apiDocs
+- GitHub
+- Git Bash
 
 
 
-\##Técnicas
+## Técnicas
 
 Se realizaron las siguientes actividades:
 
