@@ -1,4 +1,4 @@
-# Proyecto Urban Grocers
+# Proyecto Urban Grocers 🍉🍪
 
 La página a probar contiene elementos para compra de comida, tanto de manera individual como en kits con una cuenta asociada.
 
@@ -6,13 +6,13 @@ En estas pruebas se hace la comprobación de lista de requerimientos al crear un
 
 
 
-## Fuente de documentación
+## 💻Fuente de documentación 
 
 \[https://cnt-598ae919-284e-45de-a3b2-cf7d911caad7.containerhub.tripleten-services.com/docs/]
 
 
 
-## Tecnología
+## 🛠️Tecnología 
 
 Se utilizó el siguiente ambiente:
 
@@ -23,7 +23,7 @@ Se utilizó el siguiente ambiente:
 
 
 
-## Técnicas
+## 🔍Técnicas
 
 Se realizaron las siguientes actividades:
 
